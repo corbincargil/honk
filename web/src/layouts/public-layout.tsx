@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 import { Outlet } from "react-router";
 
 const PublicLayout = () => {
-  const MAX_WIDTH = "max-w-5xl";
+  const MAX_WIDTH = "max-w-6xl";
   return (
     <PushNotificationProvider>
       <div className="min-h-screen text-foreground bg-background flex flex-col">
