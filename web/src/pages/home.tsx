@@ -66,7 +66,7 @@ const Home = () => {
 
       <div className="bg-accent/50 border border-border rounded-lg p-6 sm:p-8 space-y-6">
         <h2 className="text-xl font-bold text-foreground font-heading">
-          🚀 Quick Start Guide
+          🚀 Quick Start
         </h2>
 
         <div className="space-y-4">
